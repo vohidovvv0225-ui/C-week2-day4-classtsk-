@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "QE259yfT2HY=",
+  "success": true,
+  "projectFilePath": "/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "/Users/macbook/.nuget/packages/microsoft.extensions.dependencyinjection/10.0.13/microsoft.extensions.dependencyinjection.10.0.13.nupkg.sha512",
+    "/Users/macbook/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.13/microsoft.extensions.dependencyinjection.abstractions.10.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

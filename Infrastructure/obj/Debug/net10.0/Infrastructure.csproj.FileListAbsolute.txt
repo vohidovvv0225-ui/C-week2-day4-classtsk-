@@ -1,0 +1,15 @@
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/bin/Debug/net10.0/Infrastructure.deps.json
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/bin/Debug/net10.0/Infrastructure.dll
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/bin/Debug/net10.0/Infrastructure.pdb
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/bin/Debug/net10.0/Domain.dll
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/bin/Debug/net10.0/Domain.pdb
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/Infrastructure.csproj.AssemblyReference.cache
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/Infrastructure.AssemblyInfoInputs.cache
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/Infrastructure.AssemblyInfo.cs
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/Infrastructure.csproj.CoreCompileInputs.cache
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/Infrastr.15EFFBFE.Up2Date
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/Infrastructure.dll
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/refint/Infrastructure.dll
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/Infrastructure.pdb
+/Users/macbook/Desktop/ C#2/week2/day4/classtask/GroupProject/Infrastructure/obj/Debug/net10.0/ref/Infrastructure.dll
